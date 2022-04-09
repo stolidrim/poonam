@@ -11,6 +11,7 @@ function App() {
     <Navbar/>
     <Carousel/>
     <Features/>
+    <Carousel/>
     </div>
     </>
   );
